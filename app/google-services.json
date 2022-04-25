@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "797278195324",
+    "project_id": "noise-alerter",
+    "storage_bucket": "noise-alerter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:797278195324:android:91af0b276e668a00f503f9",
+        "android_client_info": {
+          "package_name": "com.example.noisealerter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "797278195324-3ndju2uu57ca6dn1dm1pmgvnd6gcbtme.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAB5QxawrsLhhAARkGr_qZkQgkOaxLnitM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "797278195324-3ndju2uu57ca6dn1dm1pmgvnd6gcbtme.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:797278195324:android:3d9a4e44faeff14af503f9",
+        "android_client_info": {
+          "package_name": "com.example.tempproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "797278195324-3ndju2uu57ca6dn1dm1pmgvnd6gcbtme.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAB5QxawrsLhhAARkGr_qZkQgkOaxLnitM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "797278195324-3ndju2uu57ca6dn1dm1pmgvnd6gcbtme.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
